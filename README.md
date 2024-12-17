@@ -12,7 +12,7 @@ This project demonstrates how to create a simple yet stylish dark mode toggle sw
 
 ## Demo
 
-A live demo of the dark mode toggle switch is available on my [CodePen](https://codepen.io/MCKY0822/pen/). 
+A live demo of the dark mode toggle switch is available on my [CodePen](https://codepen.io/MCKY0822/pen/PwYWLpW). 
 
 ## How It Works
 
@@ -36,7 +36,7 @@ The toggle is powered by a simple checkbox input, styled to look like a switch. 
 
 - **Sun and Moon SVG Icons**: The icons used in the toggle switch were sourced from [SVGRepo](https://www.svgrepo.com/).
 - **Code Inspiration**: The design and animation inspiration for this toggle switch came from [RedStapler Channel on YouTube](https://www.youtube.com/@RedStapler_channel).
-- **Live Demo**: You can also view the demo on my [CodePen](https://codepen.io/MCKY0822/pen/).
+- **Live Demo**: You can also view the demo on my [CodePen](https://codepen.io/MCKY0822/pen/PwYWLpW).
 
 ## License
 
